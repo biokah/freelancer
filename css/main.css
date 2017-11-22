@@ -124,7 +124,7 @@ header a {
     height: 883px;
 }
 
-.portfolio i {
+.portfolio .fa-star {
     font-size: 35px;
     left: 619px;
     top: 180px;
@@ -169,6 +169,13 @@ header a {
     opacity: 0;
     top: 14px;
     width: 349px;
+}
+
+.fa-search-plus {
+    color: white;
+    font-size: 60px !important;
+    top: 90px;
+    left: 150px;
 }
 
 .cabin-cover:hover,
