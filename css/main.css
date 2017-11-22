@@ -257,8 +257,8 @@ header a {
     width: 100%;
 }
 
-.about i {
-    font-size: 22px;
+.about .fa-star {
+    font-size: 30px;
     left: 619px;
     top: 155px;
 }
@@ -291,6 +291,12 @@ header a {
 
 .about .second-about {
     left: 635px;
+}
+
+.about .fa-download {
+    font-size: 22px;
+    left: 619px;
+    top: 155px;
 }
 
 .about a {
