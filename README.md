@@ -6,3 +6,6 @@
 4. Dar estilo que asemeje lo más posible a la página original.
 5. Para replicar las fuentes utilizar Google Fonts y para los íconos de las redes sociales y del botón Download utilizar Fonts Awesome. Esto se vinculará en la sección head del documento.
 6. El método principal utilizado será organizar los elementos mediante position, por la facilidad que permite al acomodar los distintos elementos.
+
+
+https://biokah.github.io/freelancer/
